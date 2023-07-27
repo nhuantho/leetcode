@@ -8,11 +8,6 @@ var x: Int = _x
 }
  */
 
-class ListNode(_x: Int = 0, _next: ListNode = null) {
-  var next: ListNode = _next
-  var x: Int = _x
- }
-
 object _21_Merge_Two_Sorted_Lists {
   def mergeTwoLists(list1: ListNode, list2: ListNode): ListNode = {
     if (list1 == null) list2
