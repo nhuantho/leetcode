@@ -4,12 +4,23 @@ class Solution:
             return s
 
         n = len(s)
+
+        def expand_around_center(l, r):
+            while l >= 0 and r < n and s[l] == s[r]:
+                l -= 1
+                r += 1
+
+            return s[l+1:r]
+
         res = s[0]
-        max_len = 1
-        for i in range(n):
-            for j in range(i + 1, n):
-                if j - i + 1 > max_len and s[i:j + 1] == s[i:j + 1][::-1]:
-                    max_len = j - i + 1
-                    res = s[i:j + 1]
+        for i in range(0, n):
+            odd = expand_around_center(i, i)
+            even = expand_around_center(i, i + 1)
+
+            if len(odd) > len(res):
+                res = odd
+
+            if len(even) > len(res):
+                res = even
 
         return res
