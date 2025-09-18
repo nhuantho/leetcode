@@ -13,6 +13,8 @@ class Solution:
             while j < n - 1:
                 if (0 - (nums[i] + nums[j])) in visited and visited[0 - (nums[i] + nums[j])] > j:
                     res.append([nums[i], nums[j], 0 - (nums[i] + nums[j])])
+                    if visited[0 - (nums[i] + nums[j])] < j:
+                        break
                 j += 1
                 while nums[j] == nums[j - 1] and j < n -1:
                     j += 1
