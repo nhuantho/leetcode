@@ -2,22 +2,18 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
         nums.sort()
-        tmp_res = set()
-        for i in range(n - 2):
-            l = i + 1
-            r = n - 1
-            while l < r:
-                s = nums[i] + nums[l] + nums[r]
-                if s <= 0:
-                    if s == 0:
-                        tmp_res.add((nums[i], nums[l], nums[r]))
-                    l += 1
-                elif s > 0:
-                    r -= 1
+        visited = dict()
+        for i in range(n):
+            visited.update({nums[i]: i})
         res = []
-        for tmp in tmp_res:
-            res.append(list(tmp))
-        res.sort()
+        for i in range(n - 2):
+            if nums[i] == nums[i - 1] and i > 0:
+                continue
+            j = i + 1
+            while j < n - 1:
+                if (0 - (nums[i] + nums[j])) in visited and visited[0 - (nums[i] + nums[j])] > j:
+                    res.append([nums[i], nums[j], 0 - (nums[i] + nums[j])])
+                j += 1
+                while nums[j] == nums[j - 1] and j < n -1:
+                    j += 1
         return res
-        
-        
