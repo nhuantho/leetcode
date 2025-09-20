@@ -3,12 +3,16 @@ class Solution:
         n = len(nums)
         if n <= 1:
             return 0
-        dp = [0] * (n + 1)
+        furtherest = 0
+        jumps = 0
+        current_index = 0
         for i in range(n):
-            if i + nums[i] >= n - 1:
-                return dp[i] + 1
-            for j in range(i + 1, i + nums[i] + 1):
-                if dp[j] == 0:
-                    dp[j] = dp[i] + 1
-
+            if i > furtherest:
+                continue
+            furtherest = max(furtherest, i + nums[i])
+            if current_index == i:
+                current_index = furtherest
+                jumps += 1
+                if furtherest >= n - 1:
+                    return jumps
         return 0
