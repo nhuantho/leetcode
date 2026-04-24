@@ -7,10 +7,10 @@ class Solution:
             graph[a].append((b, val))
             graph[b].append((a, 1 / val))
 
-        # DFS function
         def dfs(start, end, visited):
             if start not in graph:
                 return -1.0
+
             if start == end:
                 return 1.0
 
@@ -21,12 +21,12 @@ class Solution:
                     continue
 
                 result = dfs(neighbor, end, visited)
+
                 if result != -1.0:
                     return result * weight
 
-            return -1.0
+            return -1
 
-        # Process queries
         results = []
         for start, end in queries:
             results.append(dfs(start, end, set()))
