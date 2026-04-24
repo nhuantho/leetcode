@@ -7,28 +7,28 @@ class Solution:
             graph[a].append((b, val))
             graph[b].append((a, 1 / val))
 
-        def dfs(start, end, visited):
-            if start not in graph:
+        def bfs(start, end):
+            if start not in graph or end not in graph:
                 return -1.0
 
-            if start == end:
-                return 1.0
+            queue = deque([(start, 1.0)])
+            visited = set([start])
 
-            visited.add(start)
+            while queue:
+                node, value = queue.popleft()
 
-            for neighbor, weight in graph[start]:
-                if neighbor in visited:
-                    continue
+                if node == end:
+                    return value
 
-                result = dfs(neighbor, end, visited)
+                for neighbor, weight in graph[node]:
+                    if neighbor not in visited:
+                        visited.add(neighbor)
+                        queue.append((neighbor, value * weight))
 
-                if result != -1.0:
-                    return result * weight
-
-            return -1
+            return -1.0
 
         results = []
         for start, end in queries:
-            results.append(dfs(start, end, set()))
+            results.append(bfs(start, end))
 
         return results
