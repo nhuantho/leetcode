@@ -8,15 +8,16 @@ class Solution:
         dist = {}
 
         while heap:
-            curr_v, node = heapq.heappop(heap)
+            current_delay, node = heapq.heappop(heap)
+
             if node in dist:
                 continue
 
-            dist[node] = curr_v
+            dist[node] = current_delay
 
-            for nei, v in graph[node]:
-                if nei not in dist:
-                    heapq.heappush(heap, (dist[node] + v, nei))
+            for neighbor, delay in graph[node]:
+                if neighbor not in dist:
+                    heapq.heappush(heap, (delay + current_delay, neighbor))
 
         if len(dist) != n:
             return -1
