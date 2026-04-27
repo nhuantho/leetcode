@@ -1,30 +1,15 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-        graph = defaultdict(list)
-        for f, t, p in flights:
-            graph[f].append((t, p))
-        
-        def dijkstra():
-            heap = [(0, src, 0)]
-            visited = dict()
+        def bellman_ford():
+            dist = [99999999] * n
+            dist[src] = 0
 
-            while heap:
-                curr_p, node, step = heapq.heappop(heap)
-
-                if node == dst:
-                    return curr_p
-                
-                if step > k:
-                    continue
-
-                if (node, step) in visited and visited[(node, step)] <= curr_p:
-                    continue
-
-                visited[(node, step)] = curr_p
-
-                for neighbor, p in graph[node]:
-                    heapq.heappush(heap, (p + curr_p, neighbor, step + 1))
-
-            return -1
-
-        return dijkstra()
+            for _ in range(k + 1):
+                temp = dist.copy()
+                for f, t, p in flights:
+                    if dist[f] == 99999999:
+                        continue
+                    temp[t] = min(temp[t], dist[f] + p)
+                dist = temp
+            return dist[dst] if dist[dst] != 99999999 else -1
+        return bellman_ford()
