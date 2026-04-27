@@ -4,25 +4,27 @@ class Solution:
         for f, t, p in flights:
             graph[f].append((t, p))
         
-        self.min_p = 99999999
-        self.min_ps = [99999999] * n
-        def bfs():
-            queue = deque([(src, 0, 0)])
+        def dijkstra():
+            heap = [(0, src, 0)]
+            visited = dict()
 
-            while queue:
-                node, curr_p, step = queue.popleft()
+            while heap:
+                curr_p, node, step = heapq.heappop(heap)
+
+                if step > k + 1:
+                    continue
+
                 if node == dst:
-                    self.min_p = min(curr_p, self.min_p)
+                    return curr_p
+
+                if (node, step) in visited and visited[(node, step)] <= curr_p:
                     continue
 
-                if step > k:
-                    continue
+                visited[(node, step)] = curr_p
 
                 for neighbor, p in graph[node]:
-                    new_p = curr_p + p
-                    if new_p < self.min_ps[neighbor]:
-                        self.min_ps[neighbor] = new_p
-                        queue.append((neighbor, p + curr_p, step + 1))
-        bfs()
-        
-        return -1 if self.min_p == 99999999 else self.min_p
+                    heapq.heappush(heap, (p + curr_p, neighbor, step + 1))
+
+            return -1
+
+        return dijkstra()
