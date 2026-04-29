@@ -1,51 +1,40 @@
 class Solution:
     def findTheCity(self, n: int, edges: List[List[int]], distanceThreshold: int) -> int:
-        # Build graph
         graph = defaultdict(list)
-        for u, v, w in edges:
-            graph[u].append((v, w))
-            graph[v].append((u, w))  # undirected
+        for f, t, p in edges:
+            graph[f].append((t, p))
+            graph[t].append((f, p))
 
-        # Dijkstra from one city
         def dijkstra(start):
-            dist = [float('inf')] * n
+            dist = [99999999] * n
             dist[start] = 0
-
             heap = [(0, start)]
 
             while heap:
                 curr_dist, node = heapq.heappop(heap)
 
-                # Skip outdated state
                 if curr_dist > dist[node]:
                     continue
 
-                # 🔥 Optimization: stop exploring far nodes
                 if curr_dist > distanceThreshold:
                     continue
 
-                for nei, w in graph[node]:
-                    new_dist = curr_dist + w
-
-                    if new_dist < dist[nei]:
-                        dist[nei] = new_dist
-                        heapq.heappush(heap, (new_dist, nei))
+                for neighbor, p in graph[node]:
+                    new_dist = curr_dist + p
+                    if new_dist < dist[neighbor]:
+                        dist[neighbor] = new_dist
+                        heapq.heappush(heap, (new_dist, neighbor))
 
             return dist
 
         result_city = -1
-        min_count = float('inf')
-
-        # Run Dijkstra for each city
+        min_under_threshold = 99999999
         for i in range(n):
-            dist = dijkstra(i)
+            dists = dijkstra(i)
+            under_threshold = sum([1 for j in range(n) if dists[j] <= distanceThreshold and j != i])
 
-            # Count reachable cities within threshold
-            count = sum(1 for j in range(n) if j != i and dist[j] <= distanceThreshold)
-
-            # Tie-breaking: pick larger index
-            if count <= min_count:
-                min_count = count
+            if under_threshold <= min_under_threshold:
+                min_under_threshold = under_threshold
                 result_city = i
 
         return result_city
