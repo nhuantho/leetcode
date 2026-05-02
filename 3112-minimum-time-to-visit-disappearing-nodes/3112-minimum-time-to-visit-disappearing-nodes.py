@@ -13,21 +13,14 @@ class Solution:
             curr_w, node = heapq.heappop(heap)
             if curr_w > dist[node]:
                 continue
-            
+
             if curr_w >= disappear[node]:
                 continue
 
             for nei, w in graph[node]:
                 new_w = curr_w + w
-                if new_w <= disappear[nei] and new_w < dist[nei]:
+                if new_w < disappear[nei] and new_w < dist[nei]:
                     dist[nei] = new_w
                     heapq.heappush(heap, (new_w, nei))
 
-        results = []
-
-        for w_d, w in zip(disappear, dist):
-            if w < w_d:
-                results.append(w)
-            else:
-                results.append(-1)
-        return results
+        return [-1 if d == INF else d for d in dist]
