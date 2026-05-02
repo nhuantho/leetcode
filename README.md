@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [1514-path-with-maximum-probability](https://github.com/nhuantho/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nhuantho/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nhuantho/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Shortest Path
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nhuantho/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nhuantho/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nhuantho/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/nhuantho/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nhuantho/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
