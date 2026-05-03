@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/nhuantho/leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/nhuantho/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nhuantho/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nhuantho/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/nhuantho/leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/nhuantho/leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nhuantho/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/nhuantho/leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nhuantho/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
