@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/nhuantho/leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nhuantho/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
