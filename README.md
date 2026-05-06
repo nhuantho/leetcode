@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nhuantho/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Shortest Path
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nhuantho/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nhuantho/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nhuantho/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nhuantho/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+## Math
+|  |
+| ------- |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+## Number Theory
+|  |
+| ------- |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 <!---LeetCode Topics End-->
