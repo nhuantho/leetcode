@@ -1,22 +1,28 @@
 class Solution:
-    def minTime(self, n: int, edges: list[list[int]]) -> int:
-        adj = [[] for _ in range(n)]
-        for u, v, s, e in edges:
-            adj[u].append((v, s, e))
-        dist = [float("inf")] * n
-        dist[0] = 0
-        heap = [(0, 0)]
+    def minTime(self, n: int, edges: List[List[int]]) -> int:
+        INF = 10**9
+        graph = defaultdict(list)
+        for f, t, s, e in edges:
+            graph[f].append((t, s, e))
+
+        visited = [INF] * n
+        visited[0] = 0
+        heap = [(0, 0, 0, 0)]
         while heap:
-            t, u = heapq.heappop(heap)
-            if t > dist[u]:
+            curr_w, node, start, end = heapq.heappop(heap)
+            if node == n - 1:
+                return curr_w
+
+            if curr_w > visited[node]:
                 continue
-            if u == n-1:
-                return t
-            for v, s, e in adj[u]:
-                if t > e:
-                    continue
-                nt = max(t, s) + 1
-                if nt < dist[v]:
-                    dist[v] = nt
-                    heapq.heappush(heap, (nt, v))
+
+            visited[node] = curr_w
+
+            for nei, s, e in graph[node]:
+
+                new_w = max(curr_w + 1, curr_w + s)
+
+                if new_w <= e and new_w < visited[nei]:
+                    heapq.heappush(heap, (new_w, nei, s, end))
+
         return -1
