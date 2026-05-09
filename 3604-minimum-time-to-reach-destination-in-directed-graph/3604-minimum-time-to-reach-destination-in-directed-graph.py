@@ -7,9 +7,9 @@ class Solution:
 
         visited = [INF] * n
         visited[0] = 0
-        heap = [(0, 0, 0, 0)]
+        heap = [(0, 0)]
         while heap:
-            curr_w, node, start, end = heapq.heappop(heap)
+            curr_w, node = heapq.heappop(heap)
             if node == n - 1:
                 return curr_w
 
@@ -20,9 +20,13 @@ class Solution:
 
             for nei, s, e in graph[node]:
 
-                new_w = max(curr_w + 1, curr_w + s)
+                if curr_w > e:
+                    continue
 
-                if new_w <= e and new_w < visited[nei]:
-                    heapq.heappush(heap, (new_w, nei, s, end))
+                new_w = max(curr_w, s) + 1
+
+                if new_w < visited[nei]:
+                    visited[nei] = new_w
+                    heapq.heappush(heap, (new_w, nei))
 
         return -1
