@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/nhuantho/leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nhuantho/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nhuantho/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/nhuantho/leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nhuantho/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nhuantho/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nhuantho/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nhuantho/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nhuantho/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
 |  |
 | ------- |
