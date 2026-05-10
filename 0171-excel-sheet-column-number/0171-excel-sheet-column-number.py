@@ -1,10 +1,8 @@
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
+        res = 0
         
-        result = 0
+        for c in columnTitle:
+            res = res * 26 + ord(c) - ord('A') + 1
 
-        for ch in columnTitle:
-            value = ord(ch) - ord('A') + 1
-            result = result * 26 + value
-
-        return result
+        return res
