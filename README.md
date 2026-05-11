@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/nhuantho/leetcode/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/nhuantho/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/nhuantho/leetcode/tree/master/0205-isomorphic-strings) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nhuantho/leetcode/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/nhuantho/leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
