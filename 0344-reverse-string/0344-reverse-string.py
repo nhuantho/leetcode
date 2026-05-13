@@ -5,8 +5,6 @@ class Solution:
         """
         n = len(s)
         for i in range(n//2):
-            tmp = s.copy()
-            s[n-i-1]=tmp[i]
-            s[i]=tmp[n-i-1]
+            s[n-i-1], s[i]=s[i], s[n-i-1]
         
         
