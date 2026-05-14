@@ -1,27 +1,14 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        len_r, len_m = len(ransomNote), len(magazine)
-
-        ransomNote =  "".join(sorted(ransomNote))
-        magazine =  "".join(sorted(magazine))
          
-        if len_r > len_m:
+        if len(ransomNote) > len(magazine):
             return False
         
-        memo = []
+        s_r = set(ransomNote)
 
-        i, j = 0, 0
+        for s in s_r:
+            if ransomNote.count(s) > magazine.count(s):
+                return False
         
-        while i < len_r and j < len_m:
-            if ransomNote[i] == magazine[j]:
-                memo.append(ransomNote[i])
-                i+=1
-                j+=1
-            else:
-                j+=1
-        
-        if len(memo) == len_r:
-            return True
-        
-        return False
+        return True
         
