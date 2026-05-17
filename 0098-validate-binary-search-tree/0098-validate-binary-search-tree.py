@@ -9,7 +9,7 @@ class Solution:
         if root.left is None and root.right is None:
             return True
 
-        INF = 10 ** 21
+        INF = 2 ** 32
         def dfs(node, low, high):
             if node is None:
                 return True
