@@ -21,7 +21,6 @@ class Solution:
             dfs(node.left, total, path)
             dfs(node.right, total, path)
 
-            total -= node.val
             path.pop()
 
         dfs(root, 0, [])
