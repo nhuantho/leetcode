@@ -10,8 +10,8 @@ class Solution:
             if node is None:
                 return
 
-            left_tail = dfs(node.left)
             right_tail = dfs(node.right)
+            left_tail = dfs(node.left)
 
             tmp = node.right
 
@@ -20,13 +20,13 @@ class Solution:
                 node.left = None
 
                 left_tail.right = tmp
-
+            
             if right_tail:
                 return right_tail
-
+            
             if left_tail:
                 return left_tail
 
             return node
-
+        
         dfs(root)
