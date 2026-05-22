@@ -9,13 +9,12 @@ class Solution:
         def dfs(node):
             if node is None:
                 return
-
-            right_tail = dfs(node.right)
+            
             left_tail = dfs(node.left)
+            right_tail = dfs(node.right)
 
             tmp = node.right
-
-            if node.left:
+            if left_tail:
                 node.right = node.left
                 node.left = None
 
@@ -23,10 +22,10 @@ class Solution:
             
             if right_tail:
                 return right_tail
-            
+
             if left_tail:
                 return left_tail
-
+            
             return node
         
         dfs(root)
