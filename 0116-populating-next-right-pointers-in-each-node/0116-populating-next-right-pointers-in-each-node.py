@@ -12,11 +12,12 @@ class Solution:
         def dfs(node):
             if node is None or node.left is None:
                 return
-
+            
             node.left.next = node.right
-            if node.next is not None:
-                node.right.next = node.next.left
 
+            if node.next:
+                node.right.next = node.next.left
+            
             dfs(node.left)
             dfs(node.right)
 
