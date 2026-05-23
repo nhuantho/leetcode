@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nhuantho/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/nhuantho/leetcode/tree/master/0412-fizz-buzz) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/nhuantho/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nhuantho/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/nhuantho/leetcode/tree/master/0412-fizz-buzz) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Number Theory
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nhuantho/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nhuantho/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
