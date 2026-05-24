@@ -17,20 +17,21 @@ class Solution:
         while queue:
             size = len(queue)
             prev = None
-            
-            for i in range(size):
+
+            for _ in range(size):
                 node = queue.popleft()
 
                 if prev:
                     prev.next = node
-                    
+                
                 prev = node
                 
                 if node.left:
                     queue.append(node.left)
+                
                 if node.right:
                     queue.append(node.right)
-                    
-            prev.next = None
+            
+            prev = None
     
         return root
