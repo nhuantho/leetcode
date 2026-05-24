@@ -8,18 +8,28 @@ class Node:
         self.next = next
 """
 class Solution:
-    def connect(self, root: Optional[Node]) -> Optional[Node]:
-        def dfs(node):
-            if node is None or node.left is None:
-                return
-            
-            node.left.next = node.right
+    def connect(self, root: 'Node') -> 'Node':
+        if root is None:
+            return None
 
-            if node.next:
-                node.right.next = node.next.left
+        queue = deque([root])
+        while queue:
+            size = len(queue)
+            prev = None
             
-            dfs(node.left)
-            dfs(node.right)
+            for i in range(size):
+                node = queue.popleft()
 
-        dfs(root)
+                if prev:
+                    prev.next = node
+                    
+                prev = node
+                
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+                    
+            prev.next = None
+    
         return root
