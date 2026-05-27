@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nhuantho/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nhuantho/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nhuantho/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/nhuantho/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nhuantho/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nhuantho/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nhuantho/leetcode/tree/master/0415-add-strings) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/nhuantho/leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Number Theory
 |  |
@@ -236,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nhuantho/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nhuantho/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
