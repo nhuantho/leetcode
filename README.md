@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nhuantho/leetcode/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/nhuantho/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/nhuantho/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nhuantho/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/nhuantho/leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nhuantho/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/nhuantho/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nhuantho/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nhuantho/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/nhuantho/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nhuantho/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
