@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/nhuantho/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nhuantho/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0965-univalued-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/nhuantho/leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/nhuantho/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nhuantho/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0965-univalued-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nhuantho/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nhuantho/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/nhuantho/leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/nhuantho/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/nhuantho/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
