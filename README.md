@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nhuantho/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nhuantho/leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/nhuantho/leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/nhuantho/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/nhuantho/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nhuantho/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nhuantho/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nhuantho/leetcode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/nhuantho/leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/nhuantho/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/nhuantho/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/nhuantho/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nhuantho/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/nhuantho/leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/nhuantho/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nhuantho/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/nhuantho/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nhuantho/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/nhuantho/leetcode/tree/master/0310-minimum-height-trees) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nhuantho/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nhuantho/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
