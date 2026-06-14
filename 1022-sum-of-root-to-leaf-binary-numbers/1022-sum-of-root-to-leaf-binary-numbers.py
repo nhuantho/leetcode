@@ -6,21 +6,19 @@
 #         self.right = right
 class Solution:
     def sumRootToLeaf(self, root: TreeNode) -> int:
-
-        def dfs(node: TreeNode, n = 0)-> None:
-            if not node: return
-
-            n = 2 * n + node.val
-            if not node.left and not node.right:
-                self.ans+= n
+        self.total = 0
+        def dfs(node, num_bin):
+            if node is None:
                 return
-                
-            dfs(node.left , n)
-            dfs(node.right, n)
-            return
-            
 
-        self.ans = 0
-        dfs(root)
-        return self.ans
+            num_bin = num_bin + str(node.val)
+
+            if node.left is None and node.right is None:
+                self.total += int(num_bin, 2)
+            
+            dfs(node.left, num_bin)
+            dfs(node.right, num_bin)
+        
+        dfs(root, "")
+        return self.total
         
