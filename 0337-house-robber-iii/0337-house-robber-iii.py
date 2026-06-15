@@ -12,10 +12,11 @@ class Solution:
             
             left = dfs(node.left)
             right = dfs(node.right)
-            rob_node = node.val + left[1] + right[1]
+
+            rob_node = node.val + left[0] + right[0]
             skip_node = max(left) + max(right)
-            
-            return [rob_node, skip_node]
+
+            return [skip_node, rob_node]
         
         return max(dfs(root))
         
