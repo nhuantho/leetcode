@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/nhuantho/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nhuantho/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/nhuantho/leetcode/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nhuantho/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nhuantho/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nhuantho/leetcode/tree/master/0415-add-strings) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/nhuantho/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nhuantho/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/nhuantho/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/nhuantho/leetcode/tree/master/0383-ransom-note) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/nhuantho/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/nhuantho/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nhuantho/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Counting
