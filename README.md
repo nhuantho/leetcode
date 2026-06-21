@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nhuantho/leetcode/tree/master/0016-3sum-closest) |
 | [0079-word-search](https://github.com/nhuantho/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nhuantho/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nhuantho/leetcode/tree/master/0200-number-of-islands) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nhuantho/leetcode/tree/master/0016-3sum-closest) |
 | [0202-happy-number](https://github.com/nhuantho/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/nhuantho/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nhuantho/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nhuantho/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/nhuantho/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
