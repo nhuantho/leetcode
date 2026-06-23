@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nhuantho/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/nhuantho/leetcode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
+| [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nhuantho/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/nhuantho/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/nhuantho/leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nhuantho/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nhuantho/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nhuantho/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -326,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/nhuantho/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nhuantho/leetcode/tree/master/0018-4sum) |
+| [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
