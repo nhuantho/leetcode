@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/nhuantho/leetcode/tree/master/0482-license-key-formatting) |
 | [0709-to-lower-case](https://github.com/nhuantho/leetcode/tree/master/0709-to-lower-case) |
+| [1768-merge-strings-alternately](https://github.com/nhuantho/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nhuantho/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nhuantho/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/nhuantho/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
