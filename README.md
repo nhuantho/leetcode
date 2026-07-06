@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nhuantho/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/nhuantho/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nhuantho/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/nhuantho/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/nhuantho/leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/nhuantho/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -361,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/nhuantho/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/nhuantho/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
