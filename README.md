@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nhuantho/leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhuantho/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/nhuantho/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nhuantho/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nhuantho/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/nhuantho/leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/nhuantho/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/nhuantho/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1207-unique-number-of-occurrences](https://github.com/nhuantho/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nhuantho/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nhuantho/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
