@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhuantho/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nhuantho/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nhuantho/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/nhuantho/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nhuantho/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/nhuantho/leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/nhuantho/leetcode/tree/master/0337-house-robber-iii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nhuantho/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nhuantho/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nhuantho/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nhuantho/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nhuantho/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nhuantho/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhuantho/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nhuantho/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nhuantho/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
