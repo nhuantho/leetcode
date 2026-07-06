@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nhuantho/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/nhuantho/leetcode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
+| [0485-max-consecutive-ones](https://github.com/nhuantho/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/nhuantho/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhuantho/leetcode/tree/master/1004-max-consecutive-ones-iii) |
