@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nhuantho/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/nhuantho/leetcode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
+| [0643-maximum-average-subarray-i](https://github.com/nhuantho/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nhuantho/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/nhuantho/leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -343,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nhuantho/leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nhuantho/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
