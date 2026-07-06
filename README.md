@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/nhuantho/leetcode/tree/master/0482-license-key-formatting) |
 | [0709-to-lower-case](https://github.com/nhuantho/leetcode/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nhuantho/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nhuantho/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/nhuantho/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nhuantho/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nhuantho/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/nhuantho/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nhuantho/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nhuantho/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nhuantho/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/nhuantho/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nhuantho/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Queue
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nhuantho/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nhuantho/leetcode/tree/master/0018-4sum) |
 | [0905-sort-array-by-parity](https://github.com/nhuantho/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nhuantho/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nhuantho/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
