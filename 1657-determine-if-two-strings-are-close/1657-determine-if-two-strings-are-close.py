@@ -13,22 +13,19 @@ class Solution:
             else:
                 d2[i] = 1
         
-        d1_v = list(d1.values())
-        d2_v = list(d2.values())
-        d1_v.sort()
-        d2_v.sort()
-
-        check = True
-        
         if set(d1.keys()) != set(d2.keys()):
             return False
-
+        d1_v = list(d1.values())
+        d2_v = list(d2.values())
         if len(d1_v) == len(d2_v):
+            d1_v.sort()
+            d2_v.sort()
+
             for i in range(len(d2_v)):
                 if d1_v[i] != d2_v[i]:
                     return False
         else:
             return False
-            
+
         return True
         
