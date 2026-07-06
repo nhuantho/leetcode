@@ -18,11 +18,21 @@ class Solution:
         d1_v = list(d1.values())
         d2_v = list(d2.values())
         if len(d1_v) == len(d2_v):
-            d1_v.sort()
-            d2_v.sort()
+            d1_v_d, d2_v_d = dict(), dict()
+            for i in d1_v:
+                if i in d1_v_d:
+                    d1_v_d[i] += 1
+                else:
+                    d1_v_d[i] = 1
+            
+            for i in d2_v:
+                if i in d2_v_d:
+                    d2_v_d[i] += 1
+                else:
+                    d2_v_d[i] = 1
 
-            for i in range(len(d2_v)):
-                if d1_v[i] != d2_v[i]:
+            for i in d1_v_d:
+                if i not in d2_v_d or d1_v_d[i] != d2_v_d[i]:
                     return False
         else:
             return False
