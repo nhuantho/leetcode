@@ -29,9 +29,6 @@ class Solution:
                     return False
         else:
             return False
-        
-        # for i in d1:
-        #     if i not in d2 or d1[i] != d2[i]:
-        #         return False
+            
         return True
         
