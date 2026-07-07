@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nhuantho/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nhuantho/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/nhuantho/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/nhuantho/leetcode/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nhuantho/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nhuantho/leetcode/tree/master/0412-fizz-buzz) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nhuantho/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0394-decode-string](https://github.com/nhuantho/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/nhuantho/leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/nhuantho/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nhuantho/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhuantho/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/nhuantho/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/nhuantho/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
