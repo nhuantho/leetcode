@@ -14,9 +14,6 @@ class Solution:
                 tmp_v += (str(grid[j][i]) + ",")
             d_c[i] = tmp_v
         
-        print(d_r)
-        print(d_c)
-        
         res = 0
         for i in range(n):
             for j in range(n):
