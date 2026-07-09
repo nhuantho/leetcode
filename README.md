@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/nhuantho/leetcode/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/nhuantho/leetcode/tree/master/0482-license-key-formatting) |
+| [0649-dota2-senate](https://github.com/nhuantho/leetcode/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/nhuantho/leetcode/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nhuantho/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nhuantho/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nhuantho/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/nhuantho/leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/nhuantho/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nhuantho/leetcode/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/nhuantho/leetcode/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
