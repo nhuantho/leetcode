@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/nhuantho/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/nhuantho/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nhuantho/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nhuantho/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -344,12 +345,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nhuantho/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nhuantho/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nhuantho/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nhuantho/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nhuantho/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/nhuantho/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/nhuantho/leetcode/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nhuantho/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/nhuantho/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
