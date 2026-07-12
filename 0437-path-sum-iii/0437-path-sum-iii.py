@@ -7,23 +7,21 @@
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
         self.res = 0
-        def dfs(node, total, cache):
+        def dfs(node, curr_path_sum, cache):
             if not node:
                 return
             
-            total += node.val
-            check_val = total - targetSum
-            self.res += cache.get(check_val, 0)
-            cache[total] = cache.get(total, 0) + 1
+            curr_path_sum += node.val
+            old_path_sum = curr_path_sum - targetSum
+            self.res += cache.get(old_path_sum, 0)
+            cache[curr_path_sum] = cache.get(curr_path_sum, 0) + 1
 
-            dfs(node.left, total, cache)
-            dfs(node.right, total, cache)
+            dfs(node.left, curr_path_sum, cache)
+            dfs(node.right, curr_path_sum, cache)
 
-            cache[total] -= 1
-            
+            cache[curr_path_sum] -= 1
         
         dfs(root, 0, {0:1})
-
         return self.res
 
             
