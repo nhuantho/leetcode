@@ -6,9 +6,7 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        q = deque([])
-
-        q.append(root)
+        q = deque([root])
 
         self.res = []
 
